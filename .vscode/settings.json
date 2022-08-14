@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "utils.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "mktstr.h": "c",
+        "defines.h": "c",
+        "stdio.h": "c",
+        "includes.h": "c"
     }
 }

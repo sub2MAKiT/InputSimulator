@@ -1,0 +1,1 @@
+gcc ./main.c ./src/MKT/fun/str/MKTstr.c -o ./build/main.exe
