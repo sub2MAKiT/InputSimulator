@@ -1,6 +1,10 @@
 #pragma once
 #include "includes.h"
-#include "../str/MKTstr.h"
+
+// MKT strings
+#include <str/MKTstr.h>
+// MKT math
+#include <math/math.h>
 
 #ifdef __MKT_THIRD__
 

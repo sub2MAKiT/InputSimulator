@@ -5,6 +5,7 @@
         "mktstr.h": "c",
         "defines.h": "c",
         "stdio.h": "c",
-        "includes.h": "c"
+        "includes.h": "c",
+        "math.h": "c"
     }
 }

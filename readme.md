@@ -1,5 +1,5 @@
 # ABOUT
-> This project, is a simple, unnecessarily well implemented, input simulator.
+> This  multiplatform compatibility, better OS specific code utilization and more GNU based non-GNU libraries.
 
 # VERSIONS
 

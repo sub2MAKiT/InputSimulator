@@ -1,1 +1,1 @@
-gcc ./main.c ./src/MKT/fun/str/MKTstr.c -o ./build/main.exe
+gcc -I ./src/MKT/headers/ ./main.c -o ./build/main.exe
