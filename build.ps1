@@ -1,1 +1,0 @@
-gcc -I ./src/MKT/headers/ ./main.c -o ./build/main.exe
